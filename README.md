@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishikajain28
 - 👀 I’m interested in learning anything 
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to build projects tgt?
+- 💞️ I’m looking forward to build projects tgt?
 - 📫 How to reach me dm on my insta @jainkrishika28
 - 😄 Pronouns: she/her
 
