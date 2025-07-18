@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @krishikajain28
-- 👀 I’m interested in learning anything 
-- 🌱 I’m currently learning MERN
+- 🙋🏻‍♀️ Hi, I'm Krishika
+- 🎓 SY BSc CS student at KC College, Mumbai
+- 👀 Actively exploring: **.NET, Angular, Node.js**, and **real-world gig platforms**
+- 🧠 Believer in **skills > degrees** — currently doing DSA, system prep daily
 - 💞️ I’m looking forward to build projects tgt?
-- 📫 How to reach me dm on my insta @jainkrishika28
 - 😄 Pronouns: she/her
+
 
 
 <!---
