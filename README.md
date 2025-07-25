@@ -1,7 +1,8 @@
 - 🙋🏻‍♀️ Hi, I'm Krishika
 - 🎓 SY BSc CS student at KC College, Mumbai
-- 👀 Actively exploring: **.NET, Angular, Node.js**,**React Native** and **real-world gig platforms**
-- 🧠 Currently doing DSA, system prep daily
+- 👀 Actively exploring: **.NET, Angular,**React Native** and **real-world gig platforms**
+- 💻 Comfortable with HTML5, CSS3, JavaScript, C++ — just getting started, but diving deep
+- 🧠 Currently doing DSA in C++, system prep daily
 - 💞️ I’m looking forward to build projects tgt?
 - 😄 Pronouns: she/her
 
