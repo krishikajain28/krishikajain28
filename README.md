@@ -1,6 +1,6 @@
 - 🙋🏻‍♀️ Hi, I'm Krishika
 - 🎓 BSc CS student at KC College, Mumbai
-- 👀 Actively exploring: **.NET**, **React Native**, **Java**, **Python**
+- 👀 Actively exploring: **.NET**, **React Native**, **Java**, **Python**, **Typescript**
 - 💻 Comfortable with HTML5, CSS3, JavaScript, C++ — diving deep
 - 🧠 Currently doing DSA in C++ & system prep daily
 - 💞️ I’m looking forward to build projects tgt?
