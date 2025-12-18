@@ -43,6 +43,6 @@ I'm a **Second Year BSc CS student** at **KC College, Mumbai**, passionate about
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainkrishika28&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainkrishika28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishikajain28&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishikajain28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
 </div>
