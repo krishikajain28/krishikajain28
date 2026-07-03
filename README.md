@@ -1,104 +1,80 @@
 <div align="center">
 
-# Hi, I'm Krishika Jain 👋
+# Krishika Jain
 
-### Computer Science Student · Mumbai, India
+Computer Science student based in Mumbai
 
-Building things at the intersection of **AI systems, data, and backend engineering** — I like solving real problems, wherever they live between web development, automation, and applied AI.
+Interested in AI systems, data, and backend engineering. Most of what I work on falls somewhere between web development, automation, and applied AI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishika-jain-47824a319)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishikajain28@gmail.com)
+[LinkedIn](https://linkedin.com/in/krishika-jain-47824a319) &nbsp;•&nbsp; [Email](mailto:krishikajain28@gmail.com)
 
 </div>
 
----
+<br>
 
-## 🎯 Current Focus
+## Current Focus
 
-<table>
-<tr>
-<td>🤖 <strong>AI Agents</strong></td>
-<td>📊 <strong>Data Analytics & Intelligence</strong></td>
-</tr>
-<tr>
-<td>⚙️ <strong>Backend Development</strong></td>
-<td>🧠 <strong>Data Structures & Algorithms</strong></td>
-</tr>
-<tr>
-<td colspan="2">☁️ <strong>Cloud Technologies</strong></td>
-</tr>
-</table>
+* AI Agents
+* Data Analytics & Intelligence
+* Backend Development
+* Data Structures & Algorithms
+* Cloud Technologies
 
----
+<br>
 
-## 💼 Experience
+## Experience
 
-**Frontend Developer Intern** · *Starlight Tubes*
-Frontend development, feature implementation, and improvements to production web applications.
+**Frontend Developer Intern, Starlight Tubes**
+Worked on frontend development, feature implementation, and improvements to production web applications.
 
-**Head of Web Team** · *Fiestron*
+**Head of Web Team, Fiestron**
 Led development efforts for the college festival website and related web initiatives.
 
----
+<br>
 
-## 🚀 Projects
+## Projects
 
 ### Fiestron 2025
-Official website for KC College's annual festival — built end-to-end with event registrations, administration workflows, media management, and deployment.
+Official website for KC College's annual festival. Built features around event registrations, administration workflows, media management, and deployment.
 
-`React` `Node.js` `Express` `MongoDB` `Cloudinary`
+Tech: React, Node.js, Express, MongoDB, Cloudinary
+Live: [fiestron-2025.vercel.app](https://fiestron-2025.vercel.app)
 
-🔗 **Live:** [fiestron-2025.vercel.app](https://fiestron-2025.vercel.app)
+<br>
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
+**Languages:** JavaScript, TypeScript, Python, C++
+**Frontend:** React, Next.js, Tailwind CSS
+**Backend:** Node.js, Express.js
+**Databases:** MongoDB, SQL
+**Tools:** Git, GitHub, Figma
 
-**Languages**
+<br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+## Currently Learning
 
-**Frontend**
+* AI Agent Systems
+* BigQuery
+* System Design Fundamentals
+* Backend Architecture
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<br>
 
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-- 🤖 AI Agent Systems
-- 📈 BigQuery
-- 🏗️ System Design Fundamentals
-- ⚙️ Backend Architecture
-
----
-
-## 📫 Reach Me
+## GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishika-jain-47824a319)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishikajain28@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=krishika-jain&show_icons=true&theme=default&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishika-jain&layout=compact&hide_border=true" width="30%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishika-jain&hide_border=true" width="49%" />
 
 </div>
+
+<br>
+
+## Contact
+
+LinkedIn: [linkedin.com/in/krishika-jain-47824a319](https://linkedin.com/in/krishika-jain-47824a319)
+Email: [krishikajain28@gmail.com](mailto:krishikajain28@gmail.com)
