@@ -4,62 +4,49 @@
 
 **Computer Science Student · Mumbai, India**
 
-Web developer moving into AI. Focused on building practical, real-world systems rather than chasing theory, combining backend engineering, data, and applied AI to build things that actually work in production.
-
+Web developer background, diving deep into AI. My focus spans backend engineering, data, and applied AI, with an emphasis on building real, working systems.
 <a href="https://linkedin.com/in/krishika-jain-47824a319">LinkedIn</a> &nbsp;|&nbsp; <a href="mailto:krishikajain28@gmail.com">Email</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:22D3EE&height=3&width=800" width="60%"/>
 
 </div>
 
-<br>
-
 ## Current Focus
 
 | | |
-|---|---|
 | AI Systems | Data Analytics & Intelligence |
 | Backend Development | Data Structures & Algorithms |
-| Cloud Technologies | |
-
-Moving from a web development background into AI, with backend engineering and data as the foundation. Interested in how AI systems get built and deployed in practice, not just how they work in theory.
-
-<br>
+| Cloud Technologies | Generative AI |
 
 ## Experience
 
 **Frontend Developer Intern**, Starlight Tubes
-Worked on frontend development, feature implementation, and improvements to production web applications, contributing to a live product used by real users rather than an isolated internal build.
+Delivered end-to-end features on a production web application, from UI to backend integration.
+
+*Key Contributions*
+- Built an invoice verification system integrated with Supabase
+- Developed an admin panel covering core management functionality
+- Migrated product images to cloud storage
+- Fixed UI issues and shipped improvements across the production application
 
 **Head of Web Team**, Fiestron
-Led development efforts for the college festival website and related web initiatives, overseeing execution from planning through deployment for a high-traffic annual event.
-
-<br>
+Led end-to-end development of the college festival website on the MERN stack (MongoDB, Express, React, Node.js), along with related web initiatives.
 
 ## Projects
 
 **Fiestron 2025**
-Official website for KC College's annual festival. Built features around event registrations, administration workflows, media management, and deployment, covering the full pipeline from user-facing forms to backend admin tools that organizers relied on to run the event.
+Official website for KC College's annual festival. Built features around event registrations, administration workflows, media management, and deployment.
 
 Tech: React · Node.js · Express · MongoDB · Cloudinary
 Live: [fiestron-2025.vercel.app](https://fiestron-2025.vercel.app)
 
-<br>
-
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,figma&theme=light" height="42"/>
-
-<br>
-<br>
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,tailwind,nodejs,express,mongodb,git,github,figma&theme=light" height="42"/>
 
 ## Currently Learning
 
 AI Agent Systems · BigQuery · System Design Fundamentals · Backend Architecture
-
-Building a foundation across applied AI, data infrastructure, and system design, the core pieces needed to design and ship AI-driven products rather than just experiment with them.
-
-<br>
 
 ## GitHub Stats
 
@@ -70,13 +57,9 @@ Building a foundation across applied AI, data infrastructure, and system design,
 
 </div>
 
-<br>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:6366F1&height=3&width=800" width="60%"/>
-
-<br><br>
 
 **LinkedIn:** [linkedin.com/in/krishika-jain-47824a319](https://linkedin.com/in/krishika-jain-47824a319)
 **Email:** [krishikajain28@gmail.com](mailto:krishikajain28@gmail.com)
