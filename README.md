@@ -8,17 +8,18 @@ Web developer background, diving deep into AI. My focus spans backend engineerin
 
 <a href="https://linkedin.com/in/krishika-jain-47824a319">LinkedIn</a> &nbsp;|&nbsp; <a href="mailto:krishikajain28@gmail.com">Email</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:22D3EE&height=3&width=800" width="60%"/>
-
 </div>
+
+---
 
 ## Current Focus
 
-| | |
-|---|---|
-| AI Systems | Data Analytics & Intelligence |
-| Backend Development | Data Structures & Algorithms |
-| Cloud Technologies | Generative AI |
+- AI Systems
+- Backend Development
+- Cloud Technologies
+- Data Analytics & Intelligence
+- Data Structures & Algorithms
+- Generative AI
 
 ## Experience
 
@@ -57,14 +58,14 @@ AI Agent Systems · BigQuery · System Design Fundamentals · Backend Architectu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishikajain28&show_icons=true&theme=default&hide_border=true&bg_color=00000000" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishikajain28&layout=compact&theme=default&hide_border=true&bg_color=00000000" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krishikajain28&show_icons=true&theme=default&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishikajain28&layout=compact&theme=default&hide_border=true" height="150"/>
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:6366F1&height=3&width=800" width="60%"/>
+<div align="center">
 
 **LinkedIn:** [linkedin.com/in/krishika-jain-47824a319](https://linkedin.com/in/krishika-jain-47824a319)
 **Email:** [krishikajain28@gmail.com](mailto:krishikajain28@gmail.com)
