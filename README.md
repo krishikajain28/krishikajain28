@@ -5,6 +5,7 @@
 **Computer Science Student · Mumbai, India**
 
 Web developer background, diving deep into AI. My focus spans backend engineering, data, and applied AI, with an emphasis on building real, working systems.
+
 <a href="https://linkedin.com/in/krishika-jain-47824a319">LinkedIn</a> &nbsp;|&nbsp; <a href="mailto:krishikajain28@gmail.com">Email</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:22D3EE&height=3&width=800" width="60%"/>
@@ -14,6 +15,7 @@ Web developer background, diving deep into AI. My focus spans backend engineerin
 ## Current Focus
 
 | | |
+|---|---|
 | AI Systems | Data Analytics & Intelligence |
 | Backend Development | Data Structures & Algorithms |
 | Cloud Technologies | Generative AI |
@@ -21,6 +23,7 @@ Web developer background, diving deep into AI. My focus spans backend engineerin
 ## Experience
 
 **Frontend Developer Intern**, Starlight Tubes
+
 Delivered end-to-end features on a production web application, from UI to backend integration.
 
 *Key Contributions*
@@ -30,11 +33,13 @@ Delivered end-to-end features on a production web application, from UI to backen
 - Fixed UI issues and shipped improvements across the production application
 
 **Head of Web Team**, Fiestron
+
 Led end-to-end development of the college festival website on the MERN stack (MongoDB, Express, React, Node.js), along with related web initiatives.
 
 ## Projects
 
 **Fiestron 2025**
+
 Official website for KC College's annual festival. Built features around event registrations, administration workflows, media management, and deployment.
 
 Tech: React · Node.js · Express · MongoDB · Cloudinary
