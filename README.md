@@ -1,15 +1,40 @@
-# Hi, I'm Krishika
+# Krishika Jain
 
-B.Sc. Computer Science student at KC College, Mumbai.
+Computer Science student based in Mumbai.
 
-Currently interested in:
+I'm interested in AI systems, data, backend engineering, and building products that solve real problems. Most of what I work on falls somewhere between web development, automation, and applied AI.
 
-* Full-stack web development
-* Backend engineering
-* Databases and system design
-* AI applications and agent systems
+## Current Focus
 
-## Tech
+* AI Agents
+* Data Analytics & Intelligence
+* Backend Development
+* Data Structures & Algorithms
+* Cloud Technologies
+
+## Experience
+
+### Frontend Developer Intern — Starlight Tubes
+
+Worked on frontend development, feature implementation, and improvements to production web applications.
+
+### Head of Web Team — Fiestron
+
+Led development efforts for the college festival website and related web initiatives.
+
+## Projects
+
+### Fiestron 2025
+
+Official website for KC College's annual festival.
+
+Built features around event registrations, administration workflows, media management, and deployment.
+
+**Tech:** React, Node.js, Express, MongoDB, Cloudinary
+
+**Live:** https://fiestron-2025.vercel.app
+
+## Tech Stack
 
 **Languages**
 
@@ -34,33 +59,20 @@ Currently interested in:
 * MongoDB
 * SQL
 
-## Projects
+**Tools**
 
-### Fiestron 2025
-
-Official website for the college festival.
-
-Features included:
-
-* Event management
-* Registration workflows
-* Admin controls
-* Media management
-
-**Stack:** React, Node.js, Express, MongoDB, Cloudinary
-
-Repository: [Add Link]
-Live: https://fiestron-2025.vercel.app
+* Git
+* GitHub
+* Figma
 
 ## Currently Learning
 
-* Data Structures & Algorithms
-* Backend architecture
-* AI agents and LLM applications
-* Cloud technologies
+* AI Agent Systems
+* BigQuery
+* System Design Fundamentals
+* Backend Architecture
 
 ## Contact
 
-LinkedIn: linkedin.com/in/krishika-jain-47824a319
-
-Email: [krishikajain28@gmail.com](mailto:krishikajain28@gmail.com)
+* LinkedIn: linkedin.com/in/krishika-jain-47824a319
+* Email: [krishikajain28@gmail.com](mailto:krishikajain28@gmail.com)
