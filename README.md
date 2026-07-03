@@ -65,8 +65,8 @@ Live: [fiestron-2025.vercel.app](https://fiestron-2025.vercel.app)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishika-jain&show_icons=true&theme=default&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishika-jain&layout=compact&hide_border=true" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=krishikajain28&show_icons=true&theme=default&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishikajain28&layout=compact&hide_border=true" width="30%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishika-jain&hide_border=true" width="49%" />
 
