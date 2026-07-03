@@ -10,7 +10,6 @@ Web developer background, diving deep into AI. My focus spans backend engineerin
 
 </div>
 
----
 
 ## Current Focus
 
@@ -63,7 +62,6 @@ AI Agent Systems · BigQuery · System Design Fundamentals · Backend Architectu
 
 </div>
 
----
 
 <div align="center">
 
