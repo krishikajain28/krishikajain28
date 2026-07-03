@@ -43,7 +43,7 @@ Led end-to-end development of the college festival website on the MERN stack (Mo
 Official website for KC College's annual festival. Built features around event registrations, administration workflows, media management, and deployment.
 
 Tech: React · Node.js · Express · MongoDB · Cloudinary
-Live: [fiestron-2025.vercel.app](https://fiestron-2025.vercel.app)
+Live: [Fiestron 2025](https://fiestron-2025.vercel.app)
 
 ## Tech Stack
 
