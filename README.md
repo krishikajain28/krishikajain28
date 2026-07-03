@@ -4,7 +4,7 @@
 
 Computer Science student based in Mumbai
 
-Interested in AI systems, data, and backend engineering. Most of what I work on falls somewhere between web development, automation, and applied AI.
+Working across AI systems, data, and backend engineering. I build things that solve real problems, not things that just look good in a portfolio.
 
 [LinkedIn](https://linkedin.com/in/krishika-jain-47824a319) &nbsp;•&nbsp; [Email](mailto:krishikajain28@gmail.com)
 
@@ -59,6 +59,8 @@ Live: [fiestron-2025.vercel.app](https://fiestron-2025.vercel.app)
 * System Design Fundamentals
 * Backend Architecture
 
+Learning these because they compound into better systems, not because they're trending.
+
 <br>
 
 ## GitHub Stats
@@ -68,7 +70,7 @@ Live: [fiestron-2025.vercel.app](https://fiestron-2025.vercel.app)
 <img src="https://github-readme-stats.vercel.app/api?username=krishikajain28&show_icons=true&theme=default&hide_border=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishikajain28&layout=compact&hide_border=true" width="30%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishika-jain&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishikajain28&hide_border=true" width="49%" />
 
 </div>
 
