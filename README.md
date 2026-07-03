@@ -2,9 +2,9 @@
 
 # Krishika Jain
 
-Computer Science student based in Mumbai
+Computer Science student, Mumbai. Not here for participation trophies.
 
-Working across AI systems, data, and backend engineering. I build things that solve real problems, not things that just look good in a portfolio.
+I build AI systems, backend infrastructure, and things that actually ship. Less interested in "learning for the sake of learning," more interested in what a skill gets me a year from now.
 
 [LinkedIn](https://linkedin.com/in/krishika-jain-47824a319) &nbsp;•&nbsp; [Email](mailto:krishikajain28@gmail.com)
 
@@ -12,54 +12,55 @@ Working across AI systems, data, and backend engineering. I build things that so
 
 <br>
 
-## Current Focus
+## What I'm actually doing right now
 
-* AI Agents
-* Data Analytics & Intelligence
-* Backend Development
-* Data Structures & Algorithms
-* Cloud Technologies
+* Building AI agents, not just talking about them
+* Turning data into decisions (Data Analytics & Intelligence)
+* Backend systems that don't fall over
+* DSA, because the fundamentals still matter
+* Cloud, because nothing serious runs on localhost forever
 
 <br>
 
 ## Experience
 
 **Frontend Developer Intern, Starlight Tubes**
-Worked on frontend development, feature implementation, and improvements to production web applications.
+Shipped features and improvements on production web apps. Not a sandbox internship, real users, real bugs.
 
 **Head of Web Team, Fiestron**
-Led development efforts for the college festival website and related web initiatives.
+Ran the web team for a college festival with actual traffic and actual deadlines. No committee, just execution.
 
 <br>
 
 ## Projects
 
 ### Fiestron 2025
-Official website for KC College's annual festival. Built features around event registrations, administration workflows, media management, and deployment.
+The official site for KC College's annual festival, built from scratch: registrations, admin workflows, media handling, deployment, the whole pipeline.
 
-Tech: React, Node.js, Express, MongoDB, Cloudinary
+`React` `Node.js` `Express` `MongoDB` `Cloudinary`
+
 Live: [fiestron-2025.vercel.app](https://fiestron-2025.vercel.app)
 
 <br>
 
-## Tech Stack
+## Stack
 
-**Languages:** JavaScript, TypeScript, Python, C++
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Databases:** MongoDB, SQL
-**Tools:** Git, GitHub, Figma
+**Languages** — JavaScript, TypeScript, Python, C++
+**Frontend** — React, Next.js, Tailwind CSS
+**Backend** — Node.js, Express.js
+**Databases** — MongoDB, SQL
+**Tools** — Git, GitHub, Figma
 
 <br>
 
-## Currently Learning
+## Currently leveling up
 
 * AI Agent Systems
 * BigQuery
 * System Design Fundamentals
 * Backend Architecture
 
-Learning these because they compound into better systems, not because they're trending.
+Not chasing trends. Picking things that compound.
 
 <br>
 
@@ -76,7 +77,9 @@ Learning these because they compound into better systems, not because they're tr
 
 <br>
 
-## Contact
+## Get in touch
+
+Not from an elite institution. Don't plan to let that be the ceiling.
 
 LinkedIn: [linkedin.com/in/krishika-jain-47824a319](https://linkedin.com/in/krishika-jain-47824a319)
 Email: [krishikajain28@gmail.com](mailto:krishikajain28@gmail.com)
